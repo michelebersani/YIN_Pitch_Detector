@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import librosa
-from array import array
 import numpy as np
 
 def coinvolutions(signal):
